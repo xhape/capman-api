@@ -1,0 +1,348 @@
+{
+  "task" : [
+    {
+      "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "2c0c089c-7b30-4462-8c3e-15adcfb74983",
+      "type" : "Project",
+      "hours" : 12,
+      "subTasks" : [
+        {
+          "type" : "Design",
+          "hours" : 6,
+          "date" : "2016-05-02",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+          "createdBy" : "2c0c089c-7b30-4462-8c3e-15adcfb74983"
+        },
+        {
+          "type" : "Audit",
+          "hours" : 6,
+          "date" : "2016-05-02",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+          "createdBy" : "2c0c089c-7b30-4462-8c3e-15adcfb74983"
+        }
+      ]
+    },
+    {
+      "client" : "844b1117-a83f-488a-a38e-29463347643c",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "92dd92b7-4c80-453b-b862-9968813a80fd",
+      "type" : "Project",
+      "hours" : 6,
+      "subTasks" : [
+        {
+          "type" : "Design",
+          "hours" : 6,
+          "date" : "2016-05-02",
+          "client" : "844b1117-a83f-488a-a38e-29463347643c",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "92dd92b7-4c80-453b-b862-9968813a80fd"
+        }
+      ]
+    },
+    {
+      "name" : "605 Maude",
+      "client" : "25124e6e-e24a-4960-9dbb-9ce697ddbbc9",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "b14c3bb0-58df-4fc9-887a-641308fd904a",
+      "type" : "Project",
+      "hours" : 6,
+      "subTasks" : [
+        {
+          "type" : "Design",
+          "hours" : 6,
+          "date" : "2016-05-02",
+          "client" : "844b1117-a83f-488a-a38e-29463347643c",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "92dd92b7-4c80-453b-b862-9968813a80fd"
+        }
+      ]
+    },
+    {
+      "client" : "4ca5587b-1fc5-45d7-a548-8ac18632ac62",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "b14c3bb0-58df-4fc9-887a-641308fd904a",
+      "type" : "Project",
+      "hours" : 6,
+      "subTasks" : [
+        {
+          "type" : "Design",
+          "hours" : 6,
+          "date" : "2016-05-02",
+          "client" : "844b1117-a83f-488a-a38e-29463347643c",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "92dd92b7-4c80-453b-b862-9968813a80fd"
+        }
+      ]
+    },
+    {
+      "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "9c3dafe9-b4f4-4d96-af93-984510e87b70",
+      "type" : "Project",
+      "hours" : 6,
+      "subTasks" : [
+        {
+          "type" : "Design",
+          "hours" : 6,
+          "date" : "2016-05-02",
+          "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "9c3dafe9-b4f4-4d96-af93-984510e87b70"
+        }
+      ]
+    },
+    {
+      "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "b1432891-265d-4187-a20b-356983233b31",
+      "type" : "Project",
+      "hours" : 6,
+      "subTasks" : [
+        {
+          "type" : "Design",
+          "hours" : 6,
+          "date" : "2016-05-02",
+          "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "b1432891-265d-4187-a20b-356983233b31"
+        }
+      ]
+    },
+    {
+      "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "088de97f-4521-4d4f-9bd7-26996e7d1a49",
+      "type" : "Project",
+      "hours" : 3,
+      "subTasks" : [
+        {
+          "type" : "Design",
+          "hours" : 3,
+          "date" : "2016-05-02",
+          "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "088de97f-4521-4d4f-9bd7-26996e7d1a49"
+        }
+      ]
+    },
+    {
+      "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "b1432891-265d-4187-a20b-356983233b31",
+      "type" : "Project",
+      "hours" : 2,
+      "subTasks" : [
+        {
+          "name" : "Typicals",
+          "type" : "Audit",
+          "hours" : 2,
+          "date" : "2016-05-02",
+          "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "b1432891-265d-4187-a20b-356983233b31"
+        }
+      ]
+    },
+
+    {
+      "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "2c0c089c-7b30-4462-8c3e-15adcfb74983",
+      "type" : "Project",
+      "hours" : 12,
+      "subTasks" : [
+        {
+          "type" : "Design",
+          "hours" : 6,
+          "date" : "2016-05-03",
+          "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "2c0c089c-7b30-4462-8c3e-15adcfb74983"
+        },
+        {
+          "type" : "Audit",
+          "hours" : 6,
+          "date" : "2016-05-03",
+          "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "2c0c089c-7b30-4462-8c3e-15adcfb74983"
+        }
+      ]
+    },
+    {
+      "client" : "844b1117-a83f-488a-a38e-29463347643c",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "92dd92b7-4c80-453b-b862-9968813a80fd",
+      "type" : "Project",
+      "hours" : 6,
+      "subTasks" : [
+        {
+          "type" : "Design",
+          "hours" : 6,
+          "date" : "2016-05-03",
+          "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "2c0c089c-7b30-4462-8c3e-15adcfb74983"
+        }
+      ]
+    },
+    {
+      "name" : "605 Maude",
+      "client" : "25124e6e-e24a-4960-9dbb-9ce697ddbbc9",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "b14c3bb0-58df-4fc9-887a-641308fd904a",
+      "type" : "Project",
+      "hours" : 6,
+      "subTasks" : [
+        {
+          "type" : "Design",
+          "hours" : 6,
+          "date" : "2016-05-03",
+          "client" : "25124e6e-e24a-4960-9dbb-9ce697ddbbc9",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "b14c3bb0-58df-4fc9-887a-641308fd904a"
+        }
+      ]
+    },
+    {
+      "client" : "4ca5587b-1fc5-45d7-a548-8ac18632ac62",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "b14c3bb0-58df-4fc9-887a-641308fd904a",
+      "type" : "Project",
+      "hours" : 6,
+      "subTasks" : [
+        {
+          "type" : "Design",
+          "hours" : 6,
+          "date" : "2016-05-03",
+          "client" : "4ca5587b-1fc5-45d7-a548-8ac18632ac62",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "b14c3bb0-58df-4fc9-887a-641308fd904a"
+        }
+      ]
+    },
+    {
+      "client" : "083b2576-fcb0-438d-8493-95c35796cdaa",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "7e8e9167-f15e-4e8a-87c4-84d5b5684a86",
+      "type" : "Project",
+      "hours" : 3,
+      "subTasks" : [
+        {
+          "type" : "Design",
+          "hours" : 3,
+          "date" : "2016-05-03",
+          "client" : "083b2576-fcb0-438d-8493-95c35796cdaa",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "7e8e9167-f15e-4e8a-87c4-84d5b5684a86"
+        }
+      ]
+    },
+    {
+      "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "9c3dafe9-b4f4-4d96-af93-984510e87b70",
+      "type" : "Project",
+      "hours" : 6,
+      "subTasks" : [
+        {
+          "type" : "Design",
+          "hours" : 6,
+          "date" : "2016-05-03",
+          "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "9c3dafe9-b4f4-4d96-af93-984510e87b70"
+        }
+      ]
+    },
+    {
+      "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "b1432891-265d-4187-a20b-356983233b31",
+      "type" : "Project",
+      "hours" : 6,
+      "subTasks" : [
+        {
+          "type" : "Design",
+          "hours" : 6,
+          "date" : "2016-05-03",
+          "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "b1432891-265d-4187-a20b-356983233b31"
+        }
+      ]
+    },
+    {
+      "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "088de97f-4521-4d4f-9bd7-26996e7d1a49",
+      "type" : "Project",
+      "hours" : 3,
+      "subTasks" : [
+        {
+          "type" : "Design",
+          "hours" : 3,
+          "date" : "2016-05-03",
+          "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "088de97f-4521-4d4f-9bd7-26996e7d1a49"
+        }
+      ]
+    },
+    {
+      "client" : "373db4ba-a924-4df0-8ed8-36b03e94f980",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "b1f929ca-7ddc-4164-a375-dd48dc9fc53d",
+      "type" : "Project",
+      "hours" : 6,
+      "subTasks" : [
+        {
+          "type" : "Design",
+          "hours" : 6,
+          "date" : "2016-05-03",
+          "client" : "373db4ba-a924-4df0-8ed8-36b03e94f980",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "b1f929ca-7ddc-4164-a375-dd48dc9fc53d"
+        }
+      ]
+    },
+    {
+      "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "b1432891-265d-4187-a20b-356983233b31",
+      "type" : "Project",
+      "hours" : 2,
+      "subTasks" : [
+        {
+          "type" : "Audit",
+          "hours" : 2,
+          "name" : "Typicals",
+          "date" : "2016-05-03",
+          "client" : "c44b4c49-1535-4903-b51f-23b9a42e67a2",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "b1432891-265d-4187-a20b-356983233b31"
+        }
+      ]
+    },
+    {
+      "client" : "70aa51b0-99c9-406f-a6c5-cdf352edaf31",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "createdBy" : "b1f929ca-7ddc-4164-a375-dd48dc9fc53d",
+      "type" : "Project",
+      "hours" : 3,
+      "subTasks" : [
+        {
+          "type" : "Rendering",
+          "hours" : 3,
+          "date" : "2016-05-03",
+          "client" : "70aa51b0-99c9-406f-a6c5-cdf352edaf31",
+          "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+          "createdBy" : "b1f929ca-7ddc-4164-a375-dd48dc9fc53d"
+        }
+      ]
+    }
+  ]
+}

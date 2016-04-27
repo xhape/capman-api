@@ -1,0 +1,650 @@
+{
+  "office": [
+    {
+      "name": "South Bay",
+      "prefix": "SB",
+      "id": "534a1e41-c7f7-42f0-8e84-dd8a617e3208"
+    },
+    {
+      "name": "North-East Bay",
+      "prefix": "NEB",
+      "id": "730b6a01-a979-4a0a-96a7-81ca90ac4fda"
+    },
+    {
+      "name": "TWO",
+      "prefix": "TWO",
+      "id": "4b175f3a-b2dd-4888-b638-e4729bb74b86"
+    },
+    {
+      "name": "Healthcare",
+      "prefix": "HC",
+      "id": "9368310a-bd40-494e-9bd4-274e6e424649"
+    },
+    {
+      "name": "Proview Studio",
+      "prefix": "PVS",
+      "id": "d8c03464-35d7-461f-a3f6-738733c66d33"
+    }
+  ],
+  "client": [
+    {
+      "name": "AT&T",
+      "id": "e1c756a8-7faf-47d7-9479-76b63335aed5"
+    },
+    {
+      "name": "BMW",
+      "id": "56915e3e-612b-40da-be5a-8973a093d27f"
+    },
+    {
+      "name": "Clorox",
+      "id": "d1de86c6-a7ff-4186-a7a7-f2a1e553d7f4"
+    },
+    {
+      "name": "eBay",
+      "id": "6af8f655-b4be-412b-aa80-73d1f42b9d15"
+    },
+    {
+      "name": "Education",
+      "id": "373db4ba-a924-4df0-8ed8-36b03e94f980"
+    },
+    {
+      "name": "GoDaddy",
+      "id": "3eedd31c-2a7f-4c39-88d7-c9f1ca267376"
+    },
+    {
+      "name": "Google",
+      "id": "c44b4c49-1535-4903-b51f-23b9a42e67a2"
+    },
+    {
+      "name": "Illumina",
+      "id": "24e04d5a-2483-468e-bb1e-3d909735181f"
+    },
+    {
+      "name": "Intacct",
+      "id": "2465faa7-1d4a-4e20-a5e9-4fa2946ad685"
+    },
+    {
+      "name": "LinkedIn",
+      "id": "25124e6e-e24a-4960-9dbb-9ce697ddbbc9"
+    },
+    {
+      "name": "Netscout",
+      "id": "d06930f3-47c8-414d-be81-7faacff4d64e"
+    },
+    {
+      "name": "Prologis",
+      "id": "c152bad3-7bea-4355-9742-2363f54d4953"
+    },
+    {
+      "name": "Renesas",
+      "id": "083b2576-fcb0-438d-8493-95c35796cdaa"
+    },
+    {
+      "name": "Sares Regis",
+      "id": "0b95a58f-8fd4-4565-b54c-948d734047d2"
+    },
+    {
+      "name": "Salesforce",
+      "id": "8f1b1d01-412a-4bd7-8169-69009e061fe6"
+    },
+    {
+      "name": "SCFJC",
+      "id": "844b1117-a83f-488a-a38e-29463347643c"
+    },
+    {
+      "name": "Service Now",
+      "id": "4ca5587b-1fc5-45d7-a548-8ac18632ac62"
+    },
+    {
+      "name": "Stanford",
+      "id": "70aa51b0-99c9-406f-a6c5-cdf352edaf31"
+    },
+    {
+      "name": "Switchfly",
+      "id": "06701f9b-6f50-44d4-a24e-8d86495b42e7"
+    },
+    {
+      "name": "Uber",
+      "id": "ecf816c9-7477-4124-917c-aaaa00c28f79"
+    },
+    {
+      "name": "UCSF",
+      "id": "03e619d3-7ee2-4a26-9b99-bff0d1e3030d"
+    },
+    {
+      "name": "Vocera",
+      "id": "b9319e45-750f-45f1-8da9-d1987c41669b"
+    },
+    {
+      "name": "West Lake Urban",
+      "id": "cdf768a6-f0b5-4cd5-a8b6-2fe749521faa"
+    }
+  ],
+  "user": [
+    {
+      "name": "Mike Gan",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "b1432891-265d-4187-a20b-356983233b31"
+    },
+    {
+      "name": "Arheeya",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "d1748923-c1ff-4100-9686-c17beaef0e81"
+    },
+    {
+      "name": "Edzy",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "f394c878-d705-4482-a41b-db187e00bfab"
+    },
+    {
+      "name": "Eisen",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "0c2ba238-1b66-41ae-bc04-9fe29dd3cba1"
+    },
+    {
+      "name": "Francisco",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "b8879ccf-1965-4a56-99ae-54a84aae2aa8"
+    },
+    {
+      "name": "Ghed",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "c9c00859-8330-4de3-892d-d771ba386d7f"
+    },
+    {
+      "name": "Gilbert",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "710284d1-f65f-4c79-ae0e-616f6f8de374"
+    },
+    {
+      "name": "Ginger",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "0a51a88f-b9ba-4ba6-ab0e-43051d434231"
+    },
+    {
+      "name": "Marc Gari",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "28affb92-faab-4096-9f0e-bdbd29a77e77"
+    },
+    {
+      "name": "Mitch",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "6853b669-145e-4364-8291-0d2e2227855b"
+    },
+    {
+      "name": "John Noel",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "280340d1-938f-49ca-b2ad-63fffe8b4a95"
+    },
+    {
+      "name": "Rizza Joy",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "ee9d0fea-bdae-447e-9bc3-985634b6d4cf"
+    },
+    {
+      "name": "Thomas",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "d25b2394-5c57-491f-b1b9-883428b0bfe8"
+    },
+    {
+      "name": "Timothy Joseph",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "ab5cb6a9-834f-40c0-9730-5cb8c8db7aa2"
+    },
+    {
+      "name": "Wenthel Javonitalla",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "b7f94225-d7d4-4b4b-a19e-dbe44e718f73"
+    },
+    {
+      "name": "Zim",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "0356c03a-43bc-4135-8e8a-2eb067112107"
+    },
+    {
+      "name": "Jhaye",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "7bdb9e28-77d1-4c81-8215-dcf70a80fb9a"
+    },
+    {
+      "name": "John Philip",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "c54a084a-5963-41f1-94fb-e4184cf0ffeb"
+    },
+    {
+      "name": "Ricielle",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "ca83d40d-8aac-468b-9a02-42fe10a1efd8"
+    },
+    {
+      "name": "Mary Joy",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "eb3739ec-87dc-4260-841e-e5c930cf417f"
+    },
+    {
+      "name": "Paul",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "4bfc415f-6bf1-400b-b867-6db57144cffc"
+    },
+    {
+      "name": "Jenny",
+      "team": "Designer",
+      "maxCapacity": 0,
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "12ad95d5-9dfa-425d-8676-60aa7c45e0e5"
+    },
+    {
+      "name": "Aicy",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "0e1d140d-7e65-450b-8fd4-598bd881cabb"
+    },
+    {
+      "name": "Jovin",
+      "team": "Designer",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "3abfc065-989f-4967-ad53-7f6eca4637c0"
+    },
+    {
+      "name": "Aizza",
+      "team": "Audit",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "2b2f4f51-6c5b-4557-bc92-7284ba38162e"
+    },
+    {
+      "name": "Bien",
+      "team": "Audit",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "b9169ca8-7487-43a0-8e93-50b5b2006456"
+    },
+    {
+      "name": "Marj",
+      "team": "Audit",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "7bae16f2-6c6b-4d03-897c-967ccca06bcd"
+    },
+    {
+      "name": "Pam",
+      "team": "Audit",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "1c542e58-5a5d-468e-86be-8885fc65a4ee"
+    },
+    {
+      "name": "Rachelle",
+      "team": "Audit",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "ee9fa921-7d7f-411e-98df-0f3b05be5808"
+    },
+    {
+      "name": "Rizza Mae",
+      "team": "Audit",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "22dfaa6c-25a1-4b52-b293-df109e78b0a7"
+    },
+    {
+      "name": "Shiela",
+      "team": "Audit",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "43425cdd-9c4b-4eab-9477-9bb67177ef8e"
+    },
+    {
+      "name": "Darryl",
+      "team": "Render",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "a0fb5614-fecc-4bcb-b404-591a70814d83"
+    },
+    {
+      "name": "Jason",
+      "team": "Render",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "2d66cbb0-bc9f-4a81-89ea-d6bbc996aae4"
+    },
+    {
+      "name": "Jonalyn",
+      "team": "Render",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "58f6d452-7020-4848-85f2-df8332feee3c"
+    },
+    {
+      "name": "James",
+      "team": "Render",
+      "office": "d8c03464-35d7-461f-a3f6-738733c66d33",
+      "id": "afce6fdd-98af-40a6-97fa-bed4040c7a80"
+    },
+    {
+      "name": "Mike Han",
+      "team": "Design",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "id": "2c0c089c-7b30-4462-8c3e-15adcfb74983"
+    },
+    {
+      "name": "Katie",
+      "team": "Design",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "id": "2f5f2477-870c-4f31-9120-47fa4c339e51"
+    },
+    {
+      "name": "Leslie Pearson",
+      "team": "Design",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "id": "92dd92b7-4c80-453b-b862-9968813a80fd"
+    },
+    {
+      "name": "Ivy Cheuk",
+      "team": "Design",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "id": "b14c3bb0-58df-4fc9-887a-641308fd904a"
+    },
+    {
+      "name": "Tanty",
+      "team": "Design",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "id": "fb0f5c07-19db-44b7-90cb-a3304b6c4680"
+    },
+    {
+      "name": "Sophie",
+      "team": "Design",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "id": "7e8e9167-f15e-4e8a-87c4-84d5b5684a86"
+    },
+    {
+      "name": "Dara",
+      "team": "Design",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "id": "9c3dafe9-b4f4-4d96-af93-984510e87b70"
+    },
+    {
+      "name": "Erica",
+      "team": "Design",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "id": "088de97f-4521-4d4f-9bd7-26996e7d1a49"
+    },
+    {
+      "name": "Grace",
+      "team": "Design",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "id": "b1f929ca-7ddc-4164-a375-dd48dc9fc53d"
+    },
+    {
+      "name": "Marcela",
+      "team": "Design",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "id": "2b94c7a4-cb33-4f5b-980e-760ffcddb6bc"
+    }
+  ],
+  "capacity": [
+    {
+      "user": "d1748923-c1ff-4100-9686-c17beaef0e81",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Design",
+      "hours": 6
+    },
+    {
+      "user": "b8879ccf-1965-4a56-99ae-54a84aae2aa8",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Design",
+      "hours": 6
+    },
+    {
+      "user": "c9c00859-8330-4de3-892d-d771ba386d7f",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Design",
+      "hours": 6
+    },
+    {
+      "user": "710284d1-f65f-4c79-ae0e-616f6f8de374",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Design",
+      "hours": 3
+    },
+    {
+      "user": "6853b669-145e-4364-8291-0d2e2227855b",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Design",
+      "hours": 3
+    },
+    {
+      "user": "280340d1-938f-49ca-b2ad-63fffe8b4a95",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Design",
+      "hours": 3
+    },
+    {
+      "user": "d25b2394-5c57-491f-b1b9-883428b0bfe8",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Design",
+      "hours": 3
+    },
+    {
+      "user": "ab5cb6a9-834f-40c0-9730-5cb8c8db7aa2",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Design",
+      "hours": 6
+    },
+    {
+      "user": "7bdb9e28-77d1-4c81-8215-dcf70a80fb9a",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Design",
+      "hours": 6
+    },
+    {
+      "user": "ca83d40d-8aac-468b-9a02-42fe10a1efd8",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Design",
+      "hours": 6
+    },
+    {
+      "user": "0e1d140d-7e65-450b-8fd4-598bd881cabb",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Design",
+      "hours": 6
+    },
+    {
+      "user": "0e1d140d-7e65-450b-8fd4-598bd881cabb",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Design",
+      "hours": 3
+    },
+    {
+      "user": "f394c878-d705-4482-a41b-db187e00bfab",
+      "office": "730b6a01-a979-4a0a-96a7-81ca90ac4fda",
+      "type": "Design",
+      "hours": 6
+    },
+    {
+      "user": "0c2ba238-1b66-41ae-bc04-9fe29dd3cba1",
+      "office": "730b6a01-a979-4a0a-96a7-81ca90ac4fda",
+      "type": "Design",
+      "hours": 6
+    },
+    {
+      "user": "28affb92-faab-4096-9f0e-bdbd29a77e77",
+      "office": "730b6a01-a979-4a0a-96a7-81ca90ac4fda",
+      "type": "Design",
+      "hours": 6
+    },
+    {
+      "user": "3abfc065-989f-4967-ad53-7f6eca4637c0",
+      "office": "730b6a01-a979-4a0a-96a7-81ca90ac4fda",
+      "type": "Design",
+      "hours": 3
+    },
+    {
+      "user": "ee9d0fea-bdae-447e-9bc3-985634b6d4cf",
+      "office": "4b175f3a-b2dd-4888-b638-e4729bb74b86",
+      "type": "Design",
+      "hours": 6
+    },
+    {
+      "user": "c54a084a-5963-41f1-94fb-e4184cf0ffeb",
+      "office": "4b175f3a-b2dd-4888-b638-e4729bb74b86",
+      "type": "Design",
+      "hours": 6
+    },
+    {
+      "user": "eb3739ec-87dc-4260-841e-e5c930cf417f",
+      "office": "9368310a-bd40-494e-9bd4-274e6e424649",
+      "type": "Design",
+      "hours": 6
+    },
+    {
+      "user": "4bfc415f-6bf1-400b-b867-6db57144cffc",
+      "office": "9368310a-bd40-494e-9bd4-274e6e424649",
+      "type": "Design",
+      "hours": 6
+    },
+    {
+      "user": "2b2f4f51-6c5b-4557-bc92-7284ba38162e",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Audit",
+      "hours": 6
+    },
+    {
+      "user": "b9169ca8-7487-43a0-8e93-50b5b2006456",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Audit",
+      "hours": 2
+    },
+    {
+      "user": "7bae16f2-6c6b-4d03-897c-967ccca06bcd",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Audit",
+      "hours": 1
+    },
+    {
+      "user": "22dfaa6c-25a1-4b52-b293-df109e78b0a7",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Audit",
+      "hours": 3
+    },
+    {
+      "user": "43425cdd-9c4b-4eab-9477-9bb67177ef8e",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Audit",
+      "hours": 4
+    },
+    {
+      "user": "b9169ca8-7487-43a0-8e93-50b5b2006456",
+      "office": "730b6a01-a979-4a0a-96a7-81ca90ac4fda",
+      "type": "Audit",
+      "hours": 2
+    },
+    {
+      "user": "7bae16f2-6c6b-4d03-897c-967ccca06bcd",
+      "office": "730b6a01-a979-4a0a-96a7-81ca90ac4fda",
+      "type": "Audit",
+      "hours": 2
+    },
+    {
+      "user": "22dfaa6c-25a1-4b52-b293-df109e78b0a7",
+      "office": "730b6a01-a979-4a0a-96a7-81ca90ac4fda",
+      "type": "Audit",
+      "hours": 2
+    },
+    {
+      "user": "43425cdd-9c4b-4eab-9477-9bb67177ef8e",
+      "office": "730b6a01-a979-4a0a-96a7-81ca90ac4fda",
+      "type": "Audit",
+      "hours": 2
+    },
+    {
+      "user": "b9169ca8-7487-43a0-8e93-50b5b2006456",
+      "office": "4b175f3a-b2dd-4888-b638-e4729bb74b86",
+      "type": "Audit",
+      "hours": 1
+    },
+    {
+      "user": "7bae16f2-6c6b-4d03-897c-967ccca06bcd",
+      "office": "4b175f3a-b2dd-4888-b638-e4729bb74b86",
+      "type": "Audit",
+      "hours": 1
+    },
+    {
+      "user": "b9169ca8-7487-43a0-8e93-50b5b2006456",
+      "office": "9368310a-bd40-494e-9bd4-274e6e424649",
+      "type": "Audit",
+      "hours": 1
+    },
+    {
+      "user": "7bae16f2-6c6b-4d03-897c-967ccca06bcd",
+      "office": "9368310a-bd40-494e-9bd4-274e6e424649",
+      "type": "Audit",
+      "hours": 2
+    },
+    {
+      "user": "a0fb5614-fecc-4bcb-b404-591a70814d83",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Render",
+      "hours": 2
+    },
+    {
+      "user": "2d66cbb0-bc9f-4a81-89ea-d6bbc996aae4",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Render",
+      "hours": 2
+    },
+    {
+      "user": "58f6d452-7020-4848-85f2-df8332feee3c",
+      "office": "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "type": "Render",
+      "hours": 2
+    },
+    {
+      "user": "a0fb5614-fecc-4bcb-b404-591a70814d83",
+      "office": "730b6a01-a979-4a0a-96a7-81ca90ac4fda",
+      "type": "Render",
+      "hours": 2
+    },
+    {
+      "user": "2d66cbb0-bc9f-4a81-89ea-d6bbc996aae4",
+      "office": "730b6a01-a979-4a0a-96a7-81ca90ac4fda",
+      "type": "Render",
+      "hours": 2
+    },
+    {
+      "user": "58f6d452-7020-4848-85f2-df8332feee3c",
+      "office": "730b6a01-a979-4a0a-96a7-81ca90ac4fda",
+      "type": "Render",
+      "hours": 2
+    },
+    {
+      "user": "a0fb5614-fecc-4bcb-b404-591a70814d83",
+      "office": "4b175f3a-b2dd-4888-b638-e4729bb74b86",
+      "type": "Render",
+      "hours": 2
+    },
+    {
+      "user": "2d66cbb0-bc9f-4a81-89ea-d6bbc996aae4",
+      "office": "4b175f3a-b2dd-4888-b638-e4729bb74b86",
+      "type": "Render",
+      "hours": 2
+    },
+    {
+      "user": "58f6d452-7020-4848-85f2-df8332feee3c",
+      "office": "4b175f3a-b2dd-4888-b638-e4729bb74b86",
+      "type": "Render",
+      "hours": 2
+    }
+  ]
+}
