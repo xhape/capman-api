@@ -29,6 +29,10 @@ module.exports = {
       query.type = {'!' : 'Project'};
     }
 
+    //TODO return array of capacity instead of object
+    //1. if office is not specified compute capacity of all offices
+    //2. if type is ot specified compute for capacity off all type (except project)
+
     async.parallel([
       function (dbCallback) {
         Capacity.find(query).then(function (queryResult) {
