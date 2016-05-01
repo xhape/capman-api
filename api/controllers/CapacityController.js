@@ -55,7 +55,15 @@ module.exports = {
         } else {
           dbCallback();
         }
-
+      }, function(dbCallback) {
+        if (req.param("date")) {
+          query.date = req.param("date");
+          Reservation.find(query).then(function (queryResult) {
+            dbCallback(null, queryResult);
+          }).catch(dbCallback);
+        } else {
+          dbCallback();
+        }
       }], function (err, results) {
       if (err) {
         return res.serverError(err);
@@ -74,22 +82,32 @@ module.exports = {
         }
 
         //exclude the capacity of the employee if he/she is on leave on that day
-        //TODO consider HD leave
         if (!userLeave) {
+          //TODO consider HD leave
           capacity += officeCapacity.hours;
         }
       });
       result.capacity = capacity;
 
+      var estimatedTaskHours = 0;
       if (results[2]) {
-        var reservedHours = 0;
         _.forEach(results[2], function (task) {
-          reservedHours += task.hours;
+          estimatedTaskHours += task.estimatedEffort;
         });
 
-        result.remainingCapacity = capacity - reservedHours;
+        result.estimatedTaskHours = estimatedTaskHours;
       }
 
+      var reservedHours = 0;
+      if (results[3]) {
+        _.forEach(results[3], function (reservation) {
+          reservedHours += reservation.reservedHours;
+        });
+
+        result.reservedHours = reservedHours;
+      }
+
+      result.remainingCapacity = capacity - estimatedTaskHours - reservedHours;
       return res.ok(result);
     });
 

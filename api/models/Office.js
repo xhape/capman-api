@@ -2,6 +2,8 @@
  * Office.js
  *
  * @description :: Represents the office Proview currently serves
+ *     Name: "The name of the office."
+ *     Prefix: "Will be used when creating tasks and projects"
  * @docs        :: http://sailsjs.org/documentation/concepts/models-and-orm/models
  */
 var uuid = require('uuid');

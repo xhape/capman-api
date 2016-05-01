@@ -1,8 +1,11 @@
 /**
  * OfficeCapacity.js
  *
- * @description :: Proview Users can be assigned to multiple offices at a given time.
- * OfficeCapacity maps the Proview User capacity for an office.
+ * @description :: User capacity mapping
+ *    User - The user to map for this capacity
+ *    Office - The office to where this capacity is mapped
+ *    Type - The type of task for this capacity
+ *    Hours - Hours allotted for this capacity
  * @docs        :: http://sailsjs.org/documentation/concepts/models-and-orm/models
  */
 var uuid = require('uuid');
@@ -27,15 +30,15 @@ module.exports = {
       required: true
     },
 
-    hours: {
-      type: 'integer',
-      defaultsTo: 0
-    },
-
     type: {
       type: 'string',
       enum: ['Design', 'Audit', 'Render', 'Audio Visual'],
       required: true
+    },
+
+    hours: {
+      type: 'integer',
+      defaultsTo: 0
     }
   },
 

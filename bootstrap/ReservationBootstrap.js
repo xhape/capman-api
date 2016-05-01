@@ -4,10 +4,10 @@
  * Populate the project and task schema
  */
 module.exports = function (done) {
-  require('fs').readFile(__dirname + '/../bootstrap/task.json', function (err, data) {
+  require('fs').readFile(__dirname + '/../bootstrap/reservation.json', function (err, data) {
     // exit if error in reading file
     if (err) {
-      sails.log.error('Unable to read task.json. %s', err);
+      sails.log.error('Unable to read reservation.json. %s', err);
       return done();
     }
 
@@ -17,17 +17,17 @@ module.exports = function (done) {
       data = JSON.parse(data);
     } catch (e) {
       // when parsing error, exit
-      sails.log.error('Unable to parse task.json. %s', e);
+      sails.log.error('Unable to parse reservation.json. %s', e);
       return done();
     }
 
-    Task.count().then(function (count) {
+    Reservation.count().then(function (count) {
       if (count === 0) {
-        sails.log.info("Empty task, populating it from json");
+        sails.log.info("Empty reservation, populating it from json");
 
-        Task.create(data.task).then(function (tasks) {
-          if (tasks) {
-            sails.log.info("Successfully inserted %d task(s)", tasks.length);
+        Reservation.create(data.reservation).then(function (reservations) {
+          if (reservations) {
+            sails.log.info("Successfully inserted %d reservation(s)", reservations.length);
           }
           done();
         }).catch(done);

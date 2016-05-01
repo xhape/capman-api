@@ -2,6 +2,7 @@
  * Client.js
  *
  * @description :: Represents OWP client i.e. Google, Linkedin
+ *    Name - Company name
  * @docs        :: http://sailsjs.org/documentation/concepts/models-and-orm/models
  */
 var uuid = require('uuid');
@@ -19,7 +20,7 @@ module.exports = {
     name: {
       type: 'string',
       required: true,
-      unique: true,
+      unique: true
     }
   },
 

@@ -1,7 +1,9 @@
 /**
  * Leave.js
  *
- * @description :: TODO: You might write a short summary of how this model works and what it represents here.
+ * @description :: User's leave
+ *    User: "The user who will be using this leave"
+ *    date: "The date for the leave"
  * @docs        :: http://sailsjs.org/documentation/concepts/models-and-orm/models
  */
 var uuid = require('uuid');

@@ -1,0 +1,11 @@
+{
+  "reservation": [
+    {
+      "type" : "Design",
+      "reservedHours" : 6,
+      "date" : "2016-05-02",
+      "office" : "534a1e41-c7f7-42f0-8e84-dd8a617e3208",
+      "reservedBy" : "2c0c089c-7b30-4462-8c3e-15adcfb74983"
+    }
+  ]
+}
